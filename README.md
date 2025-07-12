@@ -16,7 +16,6 @@ To identify whether a video has been tampered with by analyzing:
 |-------------|----------------------------------------------|--------------|
 | **Autopsy** | Metadata and forensic analysis of media      | Open Source |
 | **FTK Imager** | Imaging and hash generation               | Open Source |
-| **Encase**  | In-depth forensic examination                | Licensed    |
 | **WinMD5**  | Integrity check via hash verification         | Open Source |
 
 ## 🧪 Methodology
